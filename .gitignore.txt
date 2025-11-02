@@ -1,0 +1,14 @@
+# Ignore OS/system files
+Thumbs.db
+.DS_Store
+
+# Editor folders
+.vscode/
+
+# Logs and caches
+*.log
+
+# Node modules or build folders (if added later)
+node_modules/
+dist/
+build/

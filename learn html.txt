@@ -1,0 +1,18 @@
+<!doctype.html>
+<html>   to start   </html>  to close
+<head>   for heading </head>
+<title> upper </title>
+<h1>  heading 1  </h1>
+<h2>  <h3>   <h4>..........
+<body>  for content  </body>
+<font size="xx">  to change size  </font>
+<align="any...**"> to set position  </align>
+<img src="\location\"> to set img  </img>
+<img align="xx"> to set img post  </align>
+<ul>/<ol>     <li>  img info  </li>        </ul></ol>
+<b>  change writing style   <em>   <I>
+<br>  break line
+<p> para  </p>
+<a href="name.html/web" target="_blank"></a>    to anchor or small blue button      target to open in  new web page
+<a href="mailto:mail id......">mail id********</a>       to blue direct mail button
+<a href="tell: no......">call us now</a>     to call on mobile no.
